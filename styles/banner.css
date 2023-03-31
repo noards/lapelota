@@ -1,0 +1,20 @@
+.banner {
+    background-image: url("..//images/lapelota.jpg"); 
+    /* height: 100vh; */
+    background-size: 2%;
+    background-position: center;
+    display: flex; 
+    flex-direction: column;
+    justify-content: left;
+    align-items: center;
+}
+.fondnoir{
+    background-color: black;
+    width: 90%;
+    /* height: 100vh; */
+    margin-top: 80px;
+    color: white;
+}
+.cards-white{
+    width: 100px;
+}
